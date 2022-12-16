@@ -4,7 +4,9 @@ title: You're up and running!
 published: true
 ---
 
-Next 123 you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Next 123
+![about-left-image.png]({{site.baseurl}}/images/about-left-image.png)
+ you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
